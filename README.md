@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<img src="https://github-readme-stats.vercel.app/api?username=lilbearx&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
+
+
 <!--
 **lilbearx/lilbearx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
